@@ -26,3 +26,5 @@ git --version
 
 
 git add
+
+хахаха
